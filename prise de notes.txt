@@ -1,0 +1,14 @@
+1 créer dossier(dossier racine du projet)
+2 ouvre vscode selectionner ce dossier
+3 Faire un git init
+4 créer les fichiers ex index ou style ...
+5 aller sur github connxion
+6 créer un nouveau repository
+7 copier la ligne git remote ... coller dans le terminal
+8 vscode à gauche ... cliqué sur + equilvalent git add *
+9 tjr ds le vscode remplir la zone de texte(un commentaire) et cliqué sur la coche
+c'est l'équivalent de faire git commit  -m "un commentaire"
+10 tjr sur la partie gauche cliqué sur les ... selectionner push 
+c'set l'équiv de faire la commande git push  origin master 
+
+
